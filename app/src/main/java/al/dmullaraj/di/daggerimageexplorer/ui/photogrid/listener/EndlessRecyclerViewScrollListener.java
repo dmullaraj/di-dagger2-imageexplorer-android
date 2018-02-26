@@ -1,4 +1,4 @@
-package al.dmullaraj.di.daggerimageexplorer.domain.listener.photogrid;
+package al.dmullaraj.di.daggerimageexplorer.ui.photogrid.listener;
 
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;

@@ -1,4 +1,4 @@
-package al.dmullaraj.di.daggerimageexplorer.domain.listener.photogrid;
+package al.dmullaraj.di.daggerimageexplorer.ui.photogrid.listener;
 
 /**
  * Created by denis.mullaraj on 19/01/2018.

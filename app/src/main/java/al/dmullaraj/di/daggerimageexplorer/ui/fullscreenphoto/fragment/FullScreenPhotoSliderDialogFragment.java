@@ -1,4 +1,4 @@
-package al.dmullaraj.di.daggerimageexplorer.ui.fragment.fullscreenphoto;
+package al.dmullaraj.di.daggerimageexplorer.ui.fullscreenphoto.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 import al.dmullaraj.di.daggerimageexplorer.R;
 import al.dmullaraj.di.daggerimageexplorer.domain.data.model.TvShow;
-import al.dmullaraj.di.daggerimageexplorer.ui.adapter.fullscreenphoto.FullScreenPhotoSliderPagerAdapter;
+import al.dmullaraj.di.daggerimageexplorer.ui.fullscreenphoto.adapter.FullScreenPhotoSliderPagerAdapter;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 

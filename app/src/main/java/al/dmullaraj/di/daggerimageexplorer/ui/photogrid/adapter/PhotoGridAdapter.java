@@ -1,4 +1,4 @@
-package al.dmullaraj.di.daggerimageexplorer.ui.adapter.photogrid;
+package al.dmullaraj.di.daggerimageexplorer.ui.photogrid.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 import al.dmullaraj.di.daggerimageexplorer.R;
 import al.dmullaraj.di.daggerimageexplorer.domain.data.model.TvShow;
-import al.dmullaraj.di.daggerimageexplorer.domain.listener.photogrid.OnGridImageViewClickListener;
+import al.dmullaraj.di.daggerimageexplorer.ui.photogrid.listener.OnGridImageViewClickListener;
 
 /**
  * Created by denis.mullaraj on 19/01/2018.

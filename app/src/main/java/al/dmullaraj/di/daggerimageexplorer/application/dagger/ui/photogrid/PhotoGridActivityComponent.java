@@ -1,7 +1,7 @@
 package al.dmullaraj.di.daggerimageexplorer.application.dagger.ui.photogrid;
 
 import al.dmullaraj.di.daggerimageexplorer.application.dagger.ApplicationComponent;
-import al.dmullaraj.di.daggerimageexplorer.ui.activity.photogrid.PhotoGridActivity;
+import al.dmullaraj.di.daggerimageexplorer.ui.photogrid.activity.PhotoGridActivity;
 import dagger.Component;
 
 /**

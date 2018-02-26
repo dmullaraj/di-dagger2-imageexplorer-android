@@ -1,4 +1,4 @@
-package al.dmullaraj.di.daggerimageexplorer.ui.activity.photogrid;
+package al.dmullaraj.di.daggerimageexplorer.ui.photogrid.activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -24,10 +24,10 @@ import al.dmullaraj.di.daggerimageexplorer.application.network.ClientApi;
 import al.dmullaraj.di.daggerimageexplorer.application.network.ClientListener;
 import al.dmullaraj.di.daggerimageexplorer.domain.data.model.PopularTvShowResponse;
 import al.dmullaraj.di.daggerimageexplorer.domain.data.model.TvShow;
-import al.dmullaraj.di.daggerimageexplorer.domain.listener.photogrid.EndlessRecyclerViewScrollListener;
-import al.dmullaraj.di.daggerimageexplorer.domain.listener.photogrid.OnGridImageViewClickListener;
-import al.dmullaraj.di.daggerimageexplorer.ui.adapter.photogrid.PhotoGridAdapter;
-import al.dmullaraj.di.daggerimageexplorer.ui.fragment.fullscreenphoto.FullScreenPhotoSliderDialogFragment;
+import al.dmullaraj.di.daggerimageexplorer.ui.photogrid.listener.EndlessRecyclerViewScrollListener;
+import al.dmullaraj.di.daggerimageexplorer.ui.photogrid.listener.OnGridImageViewClickListener;
+import al.dmullaraj.di.daggerimageexplorer.ui.photogrid.adapter.PhotoGridAdapter;
+import al.dmullaraj.di.daggerimageexplorer.ui.fullscreenphoto.fragment.FullScreenPhotoSliderDialogFragment;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
